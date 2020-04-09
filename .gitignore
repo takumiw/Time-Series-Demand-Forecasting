@@ -176,3 +176,7 @@ dmypy.json
 .history
 
 # End of https://www.gitignore.io/api/linux,macos,python,jupyternotebooks,visualstudiocode
+
+### Custom ignorance ###
+data/
+trained_model.h5
