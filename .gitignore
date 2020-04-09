@@ -180,3 +180,4 @@ dmypy.json
 ### Custom ignorance ###
 data/
 trained_model.h5
+model.png
