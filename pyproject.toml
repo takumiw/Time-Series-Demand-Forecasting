@@ -11,11 +11,13 @@ scipy = "^1.4.1"
 pandas = "^1.0.3"
 matplotlib = "^3.2.1"
 sklearn = "^0.0"
-pydot = "^1.4.1"
 keras = "^2.3.1"
-tensorflow = "^2.1.0"
 seaborn = "^0.10.0"
 graphviz = "^0.13.2"
+pydotplus = "^2.0.2"
+jupyter = "^1.0.0"
+tensorflow = "2.1.0"
+tensorflow-estimator = "2.1.0"
 
 [tool.poetry.dev-dependencies]
 
