@@ -28,3 +28,9 @@ Note that the test period is diffrent from other models.
 * RMSE in test period: 21.51
 * MAE is test period: 18.21
 ![](https://user-images.githubusercontent.com/30923675/78984671-cd9ec500-7b61-11ea-94dd-23def3eb7735.png)
+
+## Prophet library
+[Prophet](https://facebook.github.io/prophet/) is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.
+* RMSE in test period: 40.36
+* MAE is test period: 31.17
+![](https://user-images.githubusercontent.com/30923675/78988604-5f133480-7b6c-11ea-8285-d5e24401a5c7.png)
