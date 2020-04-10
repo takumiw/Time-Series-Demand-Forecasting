@@ -18,6 +18,7 @@ pydotplus = "^2.0.2"
 jupyter = "^1.0.0"
 tensorflow = "2.1.0"
 tensorflow-estimator = "2.1.0"
+fbprophet = "^0.6"
 
 [tool.poetry.dev-dependencies]
 
