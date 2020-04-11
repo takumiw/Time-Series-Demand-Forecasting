@@ -2,7 +2,7 @@
 name = "time-series-demand-forecasting"
 version = "0.1.0"
 description = ""
-authors = ["takumiw <w.tak.1229@gmail.com>"]
+authors = ["takumiw"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
