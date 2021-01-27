@@ -44,3 +44,7 @@ The result is much worse than using LSTM or GRU models. The figure below indicat
 * RMSE in the test period: 40.36
 * MAE is the test period: 31.17
 ![](https://user-images.githubusercontent.com/30923675/78988604-5f133480-7b6c-11ea-8285-d5e24401a5c7.png)
+
+# Author
+- Takumi Watanabe ([takumiw](https://github.com/takumiw))
+- Sophia University
